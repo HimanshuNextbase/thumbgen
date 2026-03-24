@@ -13,6 +13,11 @@
     },
     "android": {
       "package": "com.thumbgen.test"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "966fb3f1-c906-4d0c-b2a3-ed716c5536c4"
+      }
     }
   }
 }
